@@ -11,7 +11,7 @@
 
 ## 🔖&nbsp; Sobre
 
-O projeto **Blog** foi criado utilizando os conceitos básicos do Angular, baseado em layout do dribbble.
+O projeto **Blog** foi criado utilizando os conceitos básicos do Angular, baseado em layout do dribbble, projeto desenvolvido dentro do Bootcamp da DIO [Criando um Blos com Angular, Dio](https://www.dio.me/).
 
 ---
 
